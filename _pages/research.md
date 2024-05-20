@@ -23,4 +23,4 @@ author_profile: true
 - <em>Challenges in High-Dimensional Variable Selection</em>. <a href="https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms" target="_blank">Models, Inference & Algorithms (MIA)</a> Seminar at the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>, December 2018
 
 ### Posters
-<em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019
+- <em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019
