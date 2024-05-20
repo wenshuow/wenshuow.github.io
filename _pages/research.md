@@ -3,8 +3,8 @@ permalink: /
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 Publications and Manuscripts
