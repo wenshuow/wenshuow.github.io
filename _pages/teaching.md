@@ -6,6 +6,7 @@ author_profile: true
 
 ## Harvard University
 ### As Instructur
+
 | Semester    | Course | Note |
 | -------- | ------- | ------- |
 | Summer 2018  | <em>Introduction to Probability and Statistical Inference</em> (STAT P-17000)  | strong>new</strong> course designed by me for <a href="https://www.summer.harvard.edu/high-school-programs/pre-college-program" rel="nofollow" target="_blank">Harvard Summer School</a> |
@@ -22,7 +23,7 @@ author_profile: true
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| cell1   | cell2   | <em>cell3</em>   |
 | cell4   | ce
 ll5   | cell6   |
 |-----------------------------|
