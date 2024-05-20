@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Publications and Manuscripts
+## Publications
 \*Author order is determined alphabetically.
 - <u>Wenshuo Wang</u>, Lucas Janson, Lihua Lei and Aaditya Ramdas. (2024). <strong>Total Variation Floodgate for Variable Importance Inference in Classification</strong>. <em>Forty-first International Conference on Machine Learning</em>. [<a href="./files/ETV_WJLR.pdf" target="_blank">pdf</a>] [<a href="https://arxiv.org/abs/2309.04002" target="_blank">arXiv</a>] [<a href="./files/ETV-WJLR-2023.html" target="_blank">BibTeX</a>]
 - Yichao Li\*, <u>Wenshuo Wang</u>\*, Ke Deng and Jun S Liu. (2023). <strong>Differentiable Particle Filters with Smoothly Jittered Resampling</strong>. <em>Statistica Sinica</em>. [<a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0256_na.pdf" target="_blank">journal</a>] [<a href="./files/RRJ-LWDL-2023.html" target="_blank">BibTeX</a>]
