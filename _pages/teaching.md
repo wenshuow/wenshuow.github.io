@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Harvard University
-### As Instructur
+### As Instructor
 
 | Semester    | Course | Note |
 | -------- | ------- | ------- |
