@@ -27,3 +27,13 @@ author_profile: true
 | -------- | ------- | ------- |
 | Fall 2015 | <em>Applied Stochastic Processes</em> | <a href="http://staff.ustc.edu.cn/~thu/" rel="nofollow" target="_blank">Taizhong Hu</a> |
 | Spring 2015 |  <em>Linear Algebra</em> | <a href="http://staff.ustc.edu.cn/~chenfl/english.htm" rel="nofollow" target="_blank">Falai Chen</a> |
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPYR8GBB8K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZPYR8GBB8K');
+</script>
