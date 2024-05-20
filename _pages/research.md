@@ -34,7 +34,7 @@ Talks
 </ul></p>
 
 Posters
-------
+======
 <p><ul>
   <li class="info"><p><em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019</p></li>
 </ul></p>
