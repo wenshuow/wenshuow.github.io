@@ -24,3 +24,14 @@ author_profile: true
 
 ## Posters
 - <em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPYR8GBB8K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZPYR8GBB8K');
+</script>
