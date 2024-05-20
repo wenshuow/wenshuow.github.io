@@ -8,3 +8,13 @@ Sample <strong>exact</strong>&nbsp;model-X knockoffs using tools from the Markov
 
 ## Stratified Multiple-Descendant Growth
 Use the Hilbert space-filling curve to stratify the sample space and allow the sequential Monte Carlo (SMC) to explore the sample space more efficiently compared to the standard i.i.d. multiple-descendant sampling-resampling approach. Python code can be found <a href="https://github.com/JunLiuLab/smg" target="_blank" title="Stratified Multiple-Descendant Growth: GitHub page">here</a> and tutorials/notebooks can be found <a href="http://wenshuow.github.io/smg" target="_blank" title="Stratified Multiple-Descendant Growth Tutorial">here</a>.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPYR8GBB8K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZPYR8GBB8K');
+</script>
