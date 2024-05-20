@@ -3,10 +3,7 @@ permalink: /software/
 title: "Software"
 author_profile: true
 ---
-
-Software
-======
-Metropolized Knockoff Sampling
+## Metropolized Knockoff Sampling
 ------
 <ul>
   <li class="info"><p>
@@ -14,8 +11,7 @@ Metropolized Knockoff Sampling
 </p></li>
 </ul>
 
-Stratified Multiple-Descendant Growth
-------
+## Stratified Multiple-Descendant Growth
 <ul>
   <li class="info"><p>
   Use the Hilbert space-filling curve to stratify the sample space and allow the sequential Monte Carlo (SMC) to explore the sample space more efficiently compared to the standard i.i.d. multiple-descendant sampling-resampling approach. Python code can be found <a href="https://github.com/JunLiuLab/smg" target="_blank" title="Stratified Multiple-Descendant Growth: GitHub page">here</a> and tutorials/notebooks can be found <a href="http://wenshuow.github.io/smg" target="_blank" title="Stratified Multiple-Descendant Growth Tutorial">here</a>.
