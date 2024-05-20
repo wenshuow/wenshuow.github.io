@@ -4,10 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-Research
-======
-Publications and Manuscripts
-------
+## Publications and Manuscripts
 <p>*Author order is determined alphabetically.</p>
 <p><ul>
   <li class="info"><p>Yichao Li*, <u>Wenshuo Wang</u>*, Ke Deng and Jun S Liu. (2023). <strong>Differentiable Particle Filters with Smoothly Jittered Resampling</strong>. <em>Statistica Sinica</em>. [<a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0256_na.pdf" target="_blank">journal</a>] [<a href="./files/RRJ-LWDL-2023.html" target="_blank">BibTeX</a>]</p></li>
@@ -22,8 +19,7 @@ Publications and Manuscripts
     </ul></li>
 </ul></p>
 
-Talks
-------
+## Talks
 <p><ul>
   <li class="info"><p><em>A Power Analysis of the Conditional Randomization Test and Knockoffs</em>. <a href="https://www.worldsymposium2020.org/" target="_blank">Bernoulli-IMS One World Symposium</a>, August 2020</p></li>
   <li class="info"><p><em>Stratification and Optimal Resampling for Sequential Monte Carlo</em>. <a href="https://ww2.amstat.org/meetings/jsm/2020/" target="_blank">Joint Statistical Meetings (JSM)</a>, August 2020</p></li>
@@ -32,8 +28,7 @@ Talks
   <li class="info"><p><em>Challenges in High-Dimensional Variable Selection</em>. <a href="https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms" target="_blank">Models, Inference & Algorithms (MIA)</a> Seminar at the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>, December 2018</p></li>
 </ul></p>
 
-Posters
-------
+## Posters
 <p><ul>
   <li class="info"><p><em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019</p></li>
 </ul></p>
