@@ -9,30 +9,21 @@ author_profile: true
 
 | Semester    | Course | Note |
 | -------- | ------- | ------- |
-| Summer 2018  | <em>Introduction to Probability and Statistical Inference</em> (STAT P-17000)  | strong>new</strong> course designed by me for <a href="https://www.summer.harvard.edu/high-school-programs/pre-college-program" rel="nofollow" target="_blank">Harvard Summer School</a> |
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | <em>cell3</em>   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Summer 2018  | <em>Introduction to Probability and Statistical Inference</em> (STAT P-17000)  | <strong>new</strong> course designed by me for <a href="https://www.summer.harvard.edu/high-school-programs/pre-college-program" rel="nofollow" target="_blank">Harvard Summer School</a> |
 
 ### As Teaching Fellow
 
+| Semester    | Course | Note |
+| -------- | ------- | ------- |
+| Fall 2018 | <em>Statistical Inference I</em> (STAT 211) | <a href="http://lucasjanson.fas.harvard.edu/index.html" rel="nofollow" target="_blank">Lucas Janson</a> |
+| Spring 2018 |  <em>Introduction to Stochastic Processes</em> (STAT 171) | <a href="http://www.people.fas.harvard.edu/~pillai/Welcome.html" rel="nofollow" target="_blank">Natesh Pillai</a>|
+| Fall 2017 | <em>Probability I</em> (STAT 210) | <a href="http://www.people.fas.harvard.edu/~blitz/Site/Home.html" rel="nofollow" target="_blank">Joe Blitzstein</a> |
+
+
 ## University of Science and Technology of China
 ### As Teaching Assistant
+
+| Semester    | Course | Note |
+| -------- | ------- | ------- |
+| Fall 2015 | <em>Applied Stochastic Processes</em> | <a href="http://staff.ustc.edu.cn/~thu/" rel="nofollow" target="_blank">Taizhong Hu</a> |
+| Spring 2015 |  <em>Linear Algebra</em> | <a href="http://staff.ustc.edu.cn/~chenfl/english.htm" rel="nofollow" target="_blank">Falai Chen</a> |
