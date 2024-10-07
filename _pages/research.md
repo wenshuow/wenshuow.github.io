@@ -15,16 +15,15 @@ author_profile: true
 
 ## Talks
 - <em>Experimentation on Endogenous Bipartite Graphs</em>. <a href="https://ide.mit.edu/events/code24/" target="_blank">Conference on Digital Experimentation @ MIT</a>, October 2024
-- - <em>Total Variation Floodgate for Variable Importance Inference in Classification
+- <em>Total Variation Floodgate for Variable Importance Inference in Classification
 </em>. <a href="https://icml.cc/Conferences/2024" target="_blank">International Conference on Machine Learning</a>, July 2024
 - <em>A Power Analysis of the Conditional Randomization Test and Knockoffs</em>. <a href="https://www.worldsymposium2020.org/" target="_blank">Bernoulli-IMS One World Symposium</a>, August 2020
 - <em>Stratification and Optimal Resampling for Sequential Monte Carlo</em>. <a href="https://ww2.amstat.org/meetings/jsm/2020/" target="_blank">Joint Statistical Meetings (JSM)</a>, August 2020
 - <em>Metropolized Knockoff Sampling</em>. <a href="https://statistics.fas.harvard.edu/event/2019-dempster-prize-and-colloquium" target="_blank">Dempster Prize Colloquium</a>, November 2019
 - <em>Metropolized Knockoff Sampling</em>. <a href="https://ww2.amstat.org/meetings/jsm/2019/" target="_blank">Joint Statistical Meetings (JSM)</a>, July 2019
+- <em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019
 - <em>Challenges in High-Dimensional Variable Selection</em>. <a href="https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms" target="_blank">Models, Inference & Algorithms (MIA)</a> Seminar at the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>, December 2018
 
-## Posters
-- <em>Metropolized Knockoff Sampling</em>. <a href="https://symposium.nestat.org/" target="_blank">New England Statistics Symposium (NESS)</a>, May 2019
 
 
 <!-- Google tag (gtag.js) -->
