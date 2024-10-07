@@ -14,8 +14,8 @@ author_profile: true
 	- This paper received the 2019 <a href="https://statistics.fas.harvard.edu/dempster-award" target="_blank">Dempster Award</a>, an annual award in honor of Professor Arthur P. Dempster. See the Keynote file above for the 2019 Dempster presentation. In case of any compatibility issue, try <a href="./files/MKS_Dempster_2019/index.html" target="_blank">this link</a>. To quickly move between slides without animations, use the arrow buttons while pressing shift.
 
 ## Talks
-- <em>Experimentation on Endogenous Bipartite Graphs</em>. <a href="https://ide.mit.edu/events/code24/" target="_blank">Conference on Digital Experimentation @ MIT</a>, October 2024
-- <em>Total Variation Floodgate for Variable Importance Inference in Classification</em>. <a href="https://icml.cc/Conferences/2024" target="_blank">International Conference on Machine Learning</a>, July 2024
+- <em>Experimentation on Endogenous Bipartite Graphs</em>. <a href="https://ide.mit.edu/events/code24/" target="_blank">Conference on Digital Experimentation (CODE) @ MIT</a>, October 2024
+- <em>Total Variation Floodgate for Variable Importance Inference in Classification</em>. <a href="https://icml.cc/Conferences/2024" target="_blank">International Conference on Machine Learning (ICML)</a>, July 2024
 - <em>A Power Analysis of the Conditional Randomization Test and Knockoffs</em>. <a href="https://www.worldsymposium2020.org/" target="_blank">Bernoulli-IMS One World Symposium</a>, August 2020
 - <em>Stratification and Optimal Resampling for Sequential Monte Carlo</em>. <a href="https://ww2.amstat.org/meetings/jsm/2020/" target="_blank">Joint Statistical Meetings (JSM)</a>, August 2020
 - <em>Metropolized Knockoff Sampling</em>. <a href="https://statistics.fas.harvard.edu/event/2019-dempster-prize-and-colloquium" target="_blank">Dempster Prize Colloquium</a>, November 2019
