@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am currently a Quantitative Researcher at <a href="https://www.jumptrading.com/" rel="nofollow" target="_blank">Jump Trading</a>.
+I am a Quantitative Researcher at <a href="https://www.jumptrading.com/" rel="nofollow" target="_blank">Jump Trading</a>.
 
 Previously, I was a Research Scientist at <a href="https://research.facebook.com/teams/cas/" rel="nofollow" target="_blank">Central Applied Science</a>, <a href="https://research.facebook.com/" rel="nofollow" target="_blank">Meta Research</a>, working on scientific innovations to drive product impact across the company. Before that, I was a Quantitative Researcher at <a href="https://www.citadelsecurities.com/" rel="nofollow" target="_blank">Citadel Securities</a>.
 
